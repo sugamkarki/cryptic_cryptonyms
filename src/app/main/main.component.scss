@@ -1,0 +1,21 @@
+.main {
+  display: flex;
+  height: 99vh;
+  width: 99vw;
+}
+.container {
+  margin: auto;
+  text-align: center;
+
+
+}
+h1 {
+  font-size: 1em;
+  font-weight: normal;
+}
+.adjective,
+.noun {
+  font-size: 2em;
+  font-weight: bold;
+  text-transform: capitalize;
+}

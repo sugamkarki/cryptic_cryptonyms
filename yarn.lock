@@ -1979,6 +1979,11 @@ canonical-path@1.0.0:
   resolved "https://registry.yarnpkg.com/canonical-path/-/canonical-path-1.0.0.tgz#fcb470c23958def85081856be7a86e904f180d1d"
   integrity sha512-feylzsbDxi1gPZ1IjystzIQZagYYLvfKrSuygUCgf7z6x790VEzze5QEkdSV1U58RA7Hi0+v6fv4K54atOzATg==
 
+categorized-words@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/categorized-words/-/categorized-words-1.0.0.tgz#66d6fd552e83d05ee8e6c1071526582708db87a0"
+  integrity sha512-rnJ4rAHVbf3jw39+WXei+7zCiiPn/fUP3sLelRLVCwEOy75v/xIHVptm/vyaLe1uhI1OekN9zUSukSco07gzEg==
+
 chalk@^2.0.0:
   version "2.4.2"
   resolved "https://registry.yarnpkg.com/chalk/-/chalk-2.4.2.tgz#cd42541677a54333cf541a49108c1432b44c9424"
